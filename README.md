@@ -2,6 +2,8 @@
 
 Uma calculadora simples e funcional desenvolvida com HTML, CSS e JavaScript.
 
+![image](https://github.com/user-attachments/assets/231ebfe9-cc4e-454f-92ce-fc44dbfbc81f)
+
 ## Como usar
 
 1. Abra o arquivo `index.html` no navegador
@@ -21,5 +23,3 @@ Uma calculadora simples e funcional desenvolvida com HTML, CSS e JavaScript.
 - HTML5
 - CSS3 
 - JavaScript
-
-![image](https://github.com/user-attachments/assets/231ebfe9-cc4e-454f-92ce-fc44dbfbc81f)
