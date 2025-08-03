@@ -17,9 +17,3 @@ Uma calculadora simples e funcional desenvolvida com HTML, CSS e JavaScript.
 - Limpar display (C)
 - Apagar último dígito (←)
 - Tratamento de erros
-
-## Tecnologias utilizadas
-
-- HTML5
-- CSS3 
-- JavaScript
